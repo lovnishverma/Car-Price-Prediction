@@ -86,7 +86,7 @@ For production deployments, use **Gunicorn**:
 gunicorn -w 4 -b 0.0.0.0:5000 app:app
 ```
 
-Or deploy on **Render / Railway / Heroku** using this `requirements.txt`.
+Or deploy on **Render / Railway / Huggingface** using this `requirements.txt`.
 
 ---
 
@@ -105,9 +105,9 @@ Predicted Price (INR): **₹1,47,6720**
 
 ---
 
-## 🌐 Live Demo (Optional)
+## 🌐 Live Demo
 
-> *You can deploy this app on Render, Railway, or Heroku and share the link here.*
+> [View on Render](https://car-price-prediction-2dgn.onrender.com/)
 
 ---
 
